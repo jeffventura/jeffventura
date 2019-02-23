@@ -1,0 +1,9 @@
+body{background-color: green;
+}
+p{
+	color: red;
+	border: 5px solid red;
+	padding: 20px 20px 20px 20px;
+	margin: 30px 30px 30px 30px;
+}
+div{border: 10px solid black}
